@@ -8,4 +8,4 @@ Me interesa seguir creciendo en infraestructura, redes y soporte
 de aplicaciones, aplicando la tecnología para resolver problemas
 reales y mejorar los procesos de trabajo.
 
-📄[Ver mi CV en PDF](./CV_FILE.pdf)
+📄[Ver mi CV en PDF](./CV_FILE_1.pdf)
